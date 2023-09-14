@@ -1,0 +1,17 @@
+{
+    "name": "Company Inc.",
+    "employees": [
+        {
+            "name": "Employee 1",
+            "position": "Manager"
+        },
+        {
+            "name": "Employee 2",
+            "position": "Developer"
+        }
+    ],
+    "location": {
+        "city": "San Francisco",
+        "country": "USA"
+    }
+}
